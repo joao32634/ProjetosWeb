@@ -1,0 +1,10 @@
+body {
+    margin: 0; /* Remove espaço padrão do body */
+    height: 100vh; /* Faz o fundo ocupar 100% da tela */
+    
+    /* Define a imagem */
+    background-image: url('Images/backgroundimage.jpeg'); /* Caminho para a imagem */
+    background-size: cover; /* Faz a imagem cobrir toda a área */
+    background-position: center; /* Centraliza a imagem */
+    background-repeat: no-repeat; /* Evita repetição */
+}
